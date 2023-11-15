@@ -1,0 +1,10 @@
+{
+  "player": {
+    "maxHealth": 100,
+    "currentHealth": 80,
+    "mainHandWeapon": {
+      "name": "Basic Sword",
+      "damage": "2d8 + 2"
+    }
+  }
+}
