@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdAlamanzar
+=======
+Alamanzar
+>>>>>>> 81dcf567fe7cdd062a112e6dc4a24f0ef3626e68
